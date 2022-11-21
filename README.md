@@ -8,5 +8,5 @@ A command line tool that receives a city name as an argument and says whether it
 $ export OPENWEATHER_API_KEY="<OpenWeatherMap API KEY>"
 $ bundle install
 
-$ ruby tomorrows_rain_forecast.rb Paris
+$ ruby tomorrows_rain_forecast.rb <CITY NAME>
 ```
